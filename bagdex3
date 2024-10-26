@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <title>Bagdex</title>
+    <link rel="stylesheet" href="">
+</head>
+<h1>O jogo que vai mudar o Brasil!</h1>
+
+<div style="text-align: center;">
+
+    <img id="img001" src="https://movimentorpg.com.br/wp-content/uploads/2022/03/001_Voara.jpeg" alt="imagem da 001_Voara">
+    <img id="img002" src="https://movimentorpg.com.br/wp-content/uploads/2022/03/002_Azurara.jpeg" alt="azurara">
+    <img id="img003" src="https://tiermaker.com/images/chart/chart/pokemons-brasileiros-lindos-15156711/ararazuljpg.png"
+        alt="ararzul">
+    <style></style>
+</div>
+<div><img id="img004" src="https://movimentorpg.com.br/wp-content/uploads/2022/03/004_Pequemico.jpeg" alt="pequemico">
+    <img id="img005" src="https://movimentorpg.com.br/wp-content/uploads/2022/03/005_Micorado_b.jpeg" alt="micorado">
+    <img id="img006"
+        src="https://s2-g1.glbimg.com/PAi2szyzpugjzBXSf35-Yv9vv5M=/0x0:1080x1920/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/O/MS3BiXSQ6kphtv1DDEig/006.png"
+        alt="douraleao">
+
+    </div>
+<div>
+    <img src="https://pbs.twimg.com/media/FRi33prWYAUxCHW?format=jpg&name=large" alt="capi">
+    <img src="https://pbs.twimg.com/media/FRi4KDAXwAgo_So.jpg:large" alt="varacapi">
+    <img src="https://pbs.twimg.com/media/FRi4UGJWUAEhPzf.jpg:large" alt="capilorde">
+</div>
+<div>
+    <img src="https://pbs.twimg.com/media/FO5hc5RXoAIP0U3.jpg:large" alt="tamandui">
+</div>
+<body>
+
+</html>
